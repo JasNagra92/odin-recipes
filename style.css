@@ -1,0 +1,12 @@
+h2,
+.heading {
+    color: red;
+    text-align: center;
+}
+
+h2 {
+    background-color: black;
+}
+a {
+    font-size: 30px;
+}
